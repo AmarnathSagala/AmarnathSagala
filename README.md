@@ -23,40 +23,47 @@ Over the last few years, I’ve worked on **rapid prototyping, cloud migrations,
 </p>  
 
 - **Cloud Platforms**: AWS (EC2, S3, Lambda, Glue, RDS, DynamoDB, DMS, Textract, Step Functions, CloudFormation, CDK, Bedrock, EKS, ECS)  
-- **DevOps & CI/CD**: GitHub, Git, CodePipeline, Docker, Kubernetes, Terraform  
-- **Security & Compliance**: Golden Images, VPC design, IAM policies, Security Groups, AWS Compliance monitoring  
+- **DevOps & CI/CD**: GitHub, Git, CodePipeline, ECS, EKS, Terraform, CloudFormation,Systems Manager, Secrets Manager, Cloud Watch, CloudTrail
+- **Security & Compliance**: Landing Zones, Control Towers, SCP Policies, Golden Images, VPC design, IAM policies, Security Groups, AWS Compliance monitoring 
 - **Data Engineering**: AWS Glue, PySpark, ETL workflows, Data migration & transformation  
-- **Networking**: VPC setup, Bastion hosts, Route 53, CloudFront, NLB/ALB  
+- **Networking**: VPC setup, Internet Gateway, NAT Gateway, VPC Peering , Transit Gateways, Direct Connect, Bastion hosts, Route 53, CloudFront, NLB/ALB
 - **FinOps**: AWS billing optimization, cost monitoring, rightsizing, resource cleanup, budgets & alerts  
 
 ---
 
-## 🏆 Notable Contributions & Projects  
-- 🟢 **SHELL Project (AWS OCR)**: Built a production-ready OCR solution with AWS Textract & Lambda, delivered in record time.  
-- 🟢 **NEHR POV**: Deep expertise in AWS DMS for complex database migration.  
-- 🟢 **Hartford POV**: Set up Dockerized environments for scalable deployments.  
-- 🟢 **Merck Pharmaceuticals Support**: Managed EC2 fleet, CloudWatch logging, CloudTrail, lifecycle policies, CloudFront & Route 53.  
-- 🟢 **US Government Migration Project**: Automated ETL workflows with AWS Glue & Step Functions, implemented secure VPC networking.  
-- 🟢 **AWS Amazon Connect**: Designed outbound contact flows integrated with Lambda to improve call center efficiency.  
-- 🟢 **Security Champion**: Acted as POC for compliance & monitoring, built strong collaboration with GCC Compliance team.  
-- 🟢 **FinOps Leadership**: Reduced AWS costs significantly by deleting unused resources, managing snapshots/AMIs, and enforcing spend visibility.  
+Key Projects & Contributions
+
+🟢 OCR Automation on AWS: Delivered a production-ready OCR solution using AWS Textract, Lambda, and Step Functions, optimized for scalability and quick turnaround.
+🟢 Database Migration: Specialized in AWS DMS for seamless migration of large-scale, complex databases to cloud environments.
+🟢 Containerization: Built and deployed Dockerized environments enabling faster prototyping, scaling, and CI/CD integration.
+🟢 Cloud Infrastructure Management: Administered EC2 fleets, CloudWatch monitoring, CloudTrail auditing, S3 lifecycle policies, CloudFront distributions, and Route 53 configurations to ensure performance and compliance.
+🟢 Data Lake & ETL Automation: Designed secure VPC networking, automated ETL pipelines with AWS Glue and Step Functions, improving data migration and processing efficiency.
+🟢 Cloud Contact Center Modernization: Designed and deployed Amazon Connect outbound contact flows integrated with Lambda functions, improving call center efficiency and customer experience.
+🟢 Security & Compliance Leadership: Acted as a Security POC, handling compliance checks, monitoring, and collaborating with governance teams to enforce security best practices.
+🟢 FinOps & Cost Optimization: Reduced cloud spend significantly by decommissioning unused resources, managing EBS snapshots/AMIs, optimizing instance usage, and enforcing cost visibility dashboards.
 
 ---
 
 ## 📚 Teaching & Mentorship  
-- 🎓 Delivered **1-hour AWS classes** on **S3, RDS, DynamoDB** for beginners.  
-- 🎓 Designed structured **AWS DevOps course content** for early learners.  
-- 🎓 Conducted **knowledge transfers** on AWS security, configuration, and best practices.  
-- 🎓 Mentored candidates and reduced onboarding learning curve for projects.  
+- 🎓 Designed and delivered **AWS DevOps course content** tailored for beginners with no prior cloud knowledge.  
+- 🎓 Conducted **knowledge transfer sessions** on AWS security, configuration, and best practices to upskill team members.  
+- 🎓 Mentored candidates, reducing their onboarding learning curve and enabling faster project readiness.  
 
+## 🌍 Community & Events  
+- 🎤 Actively attend **technical meetups and industry events** to stay updated with the latest in cloud, DevOps, and AI.  
+- 🛠️ Conduct **hands-on workshops** on emerging technologies (Docker, Kubernetes, AWS EKS, Amazon Bedrock, Terraform).  
+- 🤝 Passionate about **knowledge sharing**, helping peers and aspiring professionals explore cutting-edge tools and practices.  
 ---
 
 ## 🌱 Currently Exploring  
-- 🐳 **Docker** (advanced orchestration, interview prep)  
-- ☸️ **Kubernetes** (EKS, real-world deployments)  
-- ⚡ **Agentic AI + DevOps** (Crew AI, N8N, AWS Bedrock)  
-- 💰 **FinOps practices** for cloud cost governance  
+- ☸️ **DevOps Innovations** – mastering EKS, ECS, and real-world Kubernetes deployments.  
+- ⚡ **Agentic AI** – experimenting with CrewAI, N8N, and AWS Bedrock for automation.  
+- 💰 **FinOps Practices** – optimizing cloud cost governance and efficiency.  
+- 🛡️ **Cloud Security & Compliance** – exploring advanced IAM, SCPs, and AWS Security Hub.  
+- 🔗 **Infrastructure as Code (IaC)** – refining Terraform & AWS CDK for scalable deployments.  
 
+💡 Always curious to learn and collaborate!  
+If you’d like to discuss tech, share ideas, or explore potential collaborations, feel free to **reach out**.  
 ---
 
 ## 📫 Let’s Connect  
