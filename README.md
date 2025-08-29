@@ -84,5 +84,11 @@ If you’d like to discuss tech, share ideas, or explore potential collaboration
 - 🧑‍💻 [GitHub](#)  
 - ✍️ Open to collaboration on **cloud-native projects, DevOps pipelines, and AWS architecture design**  
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 ⭐️ *"I believe in building solutions that are simple, secure, and scalable — while mentoring others to grow along the way."*  
