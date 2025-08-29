@@ -7,29 +7,34 @@ Over the last few years, I’ve worked on **rapid prototyping, cloud migrations,
 
 ---
 
-## 🔧 Core Skills & Expertise  
+## 🛠️ Core Skills & Expertise  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="50" alt="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" height="50" alt="JSON"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" height="50" alt="YAML"/>
-  <img src="https://raw.githubusercontent.com/kubernetes/community/master/icons/png/resources/labeled/k8s.png" height="50" alt="EKS"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-ecs.svg" height="50" alt="ECS"/>
-  <img src="https://seeklogo.com/images/A/amazon-bedrock-logo-0FAD7039A9-seeklogo.com.png" height="50" alt="AWS Bedrock"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/FinOps_Foundation_logo.png" height="50" alt="FinOps"/>
-</p>  
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" height="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="45" />
+  <img src="https://img.shields.io/badge/EKS-%23232F3E.svg?style=for-the-badge&logo=amazon-eks&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/ECS-%23232F3E.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/FinOps-%230072C6.svg?style=for-the-badge&logo=finops&logoColor=white" height="30"/>
+</p>
 
-- **Cloud Platforms**: AWS (EC2, S3, Lambda, Glue, RDS, DynamoDB, DMS, Textract, Step Functions, CloudFormation, CDK, Bedrock, EKS, ECS)  
-- **DevOps & CI/CD**: GitHub, Git, CodePipeline, ECS, EKS, Terraform, CloudFormation,Systems Manager, Secrets Manager, Cloud Watch, CloudTrail
-- **Security & Compliance**: Landing Zones, Control Towers, SCP Policies, Golden Images, VPC design, IAM policies, Security Groups, AWS Compliance monitoring 
-- **Data Engineering**: AWS Glue, PySpark, ETL workflows, Data migration & transformation  
-- **Networking**: VPC setup, Internet Gateway, NAT Gateway, VPC Peering , Transit Gateways, Direct Connect, Bastion hosts, Route 53, CloudFront, NLB/ALB
-- **FinOps**: AWS billing optimization, cost monitoring, rightsizing, resource cleanup, budgets & alerts  
+- **Cloud Platforms**: AWS (EC2, S3, Lambda, Glue, RDS, DynamoDB, DMS, Textract, Step Functions, EKS, ECS, Bedrock, Connect)  
+- **DevOps**: Docker, Kubernetes, Terraform, CI/CD, GitHub Actions, IaC  
+- **Data Engineering**: AWS Glue, DMS, RDS, DynamoDB, Data Lakes, ETL Pipelines  
+- **Monitoring & Security**: CloudWatch, CloudTrail, IAM, VPC, Compliance, Governance  
+- **FinOps**: Cloud cost optimization, visibility dashboards, spend governance  
 
 ---
+
+## 📜 Certifications  
+
+- 🥇 **AWS Certified Solutions Architect – Associate** (Aug 2020)  
+- 🥇 **AWS Certified Developer – Associate** (Jun 2022)  
+- 🥇 **AWS Data Analytics – Speciality** (Jun 2023)  
+- 🥇 **AWS Partner: Generative AI Essentials** (Jul 2024)  
+- 🥇 **Introduction to FinOps** – FinOps Foundation (Aug 2025)  
+
 
 ## 🚀 Key Projects & Contributions  
 
