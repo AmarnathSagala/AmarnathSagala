@@ -31,16 +31,24 @@ Over the last few years, I’ve worked on **rapid prototyping, cloud migrations,
 
 ---
 
-Key Projects & Contributions
+## 🚀 Key Projects & Contributions  
 
-🟢 OCR Automation on AWS: Delivered a production-ready OCR solution using AWS Textract, Lambda, and Step Functions, optimized for scalability and quick turnaround.
-🟢 Database Migration: Specialized in AWS DMS for seamless migration of large-scale, complex databases to cloud environments.
-🟢 Containerization: Built and deployed Dockerized environments enabling faster prototyping, scaling, and CI/CD integration.
-🟢 Cloud Infrastructure Management: Administered EC2 fleets, CloudWatch monitoring, CloudTrail auditing, S3 lifecycle policies, CloudFront distributions, and Route 53 configurations to ensure performance and compliance.
-🟢 Data Lake & ETL Automation: Designed secure VPC networking, automated ETL pipelines with AWS Glue and Step Functions, improving data migration and processing efficiency.
-🟢 Cloud Contact Center Modernization: Designed and deployed Amazon Connect outbound contact flows integrated with Lambda functions, improving call center efficiency and customer experience.
-🟢 Security & Compliance Leadership: Acted as a Security POC, handling compliance checks, monitoring, and collaborating with governance teams to enforce security best practices.
-🟢 FinOps & Cost Optimization: Reduced cloud spend significantly by decommissioning unused resources, managing EBS snapshots/AMIs, optimizing instance usage, and enforcing cost visibility dashboards.
+- 🟢 **OCR Automation on AWS**: Delivered a production-ready OCR solution using **AWS Textract, Lambda, and Step Functions**, optimized for scalability and quick turnaround.  
+
+- 🟢 **Database Migration**: Specialized in **AWS DMS** for seamless migration of large-scale, complex databases to cloud environments.  
+
+- 🟢 **Containerization**: Built and deployed **Dockerized environments** enabling faster prototyping, scaling, and CI/CD integration.  
+
+- 🟢 **Cloud Infrastructure Management**: Administered **EC2 fleets, CloudWatch monitoring, CloudTrail auditing, S3 lifecycle policies, CloudFront distributions, and Route 53 configurations** to ensure performance and compliance.  
+
+- 🟢 **Data Lake & ETL Automation**: Designed secure **VPC networking** and automated **ETL pipelines with AWS Glue and Step Functions**, improving data migration and processing efficiency.  
+
+- 🟢 **Cloud Contact Center Modernization**: Designed and deployed **Amazon Connect outbound contact flows** integrated with **Lambda functions**, improving call center efficiency and customer experience.  
+
+- 🟢 **Security & Compliance Leadership**: Acted as a **Security POC**, handling compliance checks, monitoring, and collaborating with governance teams to enforce security best practices.  
+
+- 🟢 **FinOps & Cost Optimization**: Reduced cloud spend significantly by **decommissioning unused resources, managing EBS snapshots/AMIs, optimizing instance usage, and enforcing cost visibility dashboards**.  
+
 
 ---
 
