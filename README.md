@@ -86,8 +86,6 @@ If you’d like to discuss tech, share ideas, or explore potential collaboration
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
