@@ -98,9 +98,8 @@ If you’d like to discuss tech, share ideas, or explore potential collaboration
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
----
 
 ⭐️ *"I believe in building solutions that are simple, secure, and scalable — while mentoring others to grow along the way."*  
