@@ -85,21 +85,4 @@ If you’d like to discuss tech, share ideas, or explore potential collaboration
 - ✍️ Open to collaboration on **cloud-native projects, DevOps pipelines, and AWS architecture design**  
 
 ---
-
-## ⚡ GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
-</p>
-
-
 ⭐️ *"I believe in building solutions that are simple, secure, and scalable — while mentoring others to grow along the way."*  
