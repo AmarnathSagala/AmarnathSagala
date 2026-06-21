@@ -29,11 +29,12 @@ Over the last few years, I’ve worked on **rapid prototyping, cloud migrations,
 
 ## 📜 Certifications  
 
-- 🥇 **AWS Certified Solutions Architect – Associate** (Aug 2020)  
-- 🥇 **AWS Certified Developer – Associate** (Jun 2022)  
-- 🥇 **AWS Data Analytics – Speciality** (Jun 2023)  
-- 🥇 **AWS Partner: Generative AI Essentials** (Jul 2024)  
+- 🥇 **AWS Certified Solutions Architect – Professional** (May 2026) 
 - 🥇 **Introduction to FinOps** – FinOps Foundation (Aug 2025)  
+- 🥇 **AWS Partner: Generative AI Essentials** (Jul 2024)  
+- 🥇 **AWS Data Analytics – Speciality** (Jun 2023)
+- 🥇 **AWS Certified Developer – Associate** (Jun 2022)  
+- 🥇 **AWS Certified Solutions Architect – Associate** (Aug 2020)  
 
 
 ## 🚀 Key Projects & Contributions  
