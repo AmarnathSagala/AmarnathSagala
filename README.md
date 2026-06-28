@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Amarnath Sagala
 
-🚀 **AWS Solutions Architect | Cloud Engineer | DevOps Enthusiast | FinOps Specialist**  
+🚀 **Principal Cloud Architect / Cloud Transformation Architect  | Cloud, DevOps & FinOps Leader | 13+ Yrs Experience | Building Enterprise-Scale Architectures | 4x AWS Certified**  
 
+I bridge the gap between **complex business challenges and scalable, secure cloud realities. With 13+ years of experience and 4x AWS Certifications (including Solutions Architect - Professional)**, I specialize in designing high-availability architectures, **driving DevOps automation, and optimizing cloud spend.**
 I specialize in designing and building **scalable, secure, and cost-optimized solutions on AWS**.  
 Over the last few years, I’ve worked on **rapid prototyping, cloud migrations, security hardening, and automation** across multiple industries — from **pharmaceuticals** to **government projects**.  
 
